@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <circle cx="21" cy="21" r="20" fill="#222222"/>
+    <path fill="url(#rune_svg__paint0_linear_7674_310984)" d="M9.53516 34L27.6859 26.3566L21.94 20.5301L9.53516 34ZM16.203 14.7126L21.9489 20.5301L32.2057 8L16.203 14.7126Z"/>
+    <defs>
+        <linearGradient id="rune_svg__paint0_linear_7674_310984" x1="9.53555" x2="32.2025" y1="21.0003" y2="21.0003" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00CCFF"/>
+            <stop offset="1" stop-color="#33FF99"/>
+        </linearGradient>
+    </defs>
+</svg>

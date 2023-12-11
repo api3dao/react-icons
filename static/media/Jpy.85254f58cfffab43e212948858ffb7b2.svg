@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <mask id="jpy_svg__mask0_3145_261680" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#jpy_svg__mask0_3145_261680)">
+        <path fill="white" d="M52.5 0H-10.5V42H52.5V0Z"/>
+        <path fill="#BC002D" d="M20.9979 33.6082C27.9567 33.6082 33.5979 27.967 33.5979 21.0082C33.5979 14.0494 27.9567 8.4082 20.9979 8.4082C14.0392 8.4082 8.39795 14.0494 8.39795 21.0082C8.39795 27.967 14.0392 33.6082 20.9979 33.6082Z"/>
+    </g>
+</svg>

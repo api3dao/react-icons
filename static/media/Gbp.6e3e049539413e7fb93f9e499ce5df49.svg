@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <mask id="gbp_svg__mask0_3145_261640" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#gbp_svg__mask0_3145_261640)">
+        <path fill="#012169" d="M-21 0V42H63V0H-21Z"/>
+        <path fill="black" d="M-21 0L63 42L-21 0ZM63 0L-21 42L63 0Z"/>
+        <path stroke="white" stroke-width="8.4" d="M-21 0L63 42M63 0L-21 42"/>
+        <path fill="black" d="M-21 0L63 42L-21 0ZM63 0L-21 42L63 0Z"/>
+        <path stroke="#C8102E" stroke-width="5.6" d="M-21 0L63 42M63 0L-21 42"/>
+        <path fill="black" d="M21 0V42V0ZM-21 21H63H-21Z"/>
+        <path stroke="white" stroke-width="14" d="M21 0V42M-21 21H63"/>
+        <path fill="black" d="M21 0V42V0ZM-21 21H63H-21Z"/>
+        <path stroke="#C8102E" stroke-width="8.4" d="M21 0V42M-21 21H63"/>
+    </g>
+</svg>
