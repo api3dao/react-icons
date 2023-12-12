@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="sek_svg__svg792" fill="none" version="1.1" viewBox="0 0 36 36">
+    <g id="sek_svg__g768" mask="url(#sek_svg__mask0_8751_366450)">
+        <path id="sek_svg__path764" fill="#005aad" d="M 34.6723,0 H 4.07226 C -3.38358,0 -9.42773,6.04416 -9.42773,13.5 v 9 c 0,7.4558 6.04415,13.5 13.49999,13.5 H 34.6723 c 7.4558,0 13.5,-6.0442 13.5,-13.5 v -9 C 48.1723,6.04416 42.1281,0 34.6723,0 Z"/>
+        <path id="sek_svg__path766" fill="#ffc200" fill-rule="evenodd" d="m 8.57227,0 v 14.4 h -18 v 7.2 h 18 V 36 H 15.7723 V 21.6 h 32.4 v -7.2 h -32.4 V 0 Z" clip-rule="evenodd"/>
+    </g>
+    <defs id="sek_svg__defs790">
+        <radialGradient id="sek_svg__paint0_radial_8751_366450" cx="0" cy="0" r="1" gradientTransform="matrix(0.34281431,0.14494724,-0.1450481,0.34305286,19.6985,19.4451)" gradientUnits="userSpaceOnUse">
+            <stop id="sek_svg__stop772" stop-color="white"/>
+            <stop id="sek_svg__stop774" offset="1" stop-color="#F15770"/>
+        </radialGradient>
+        <radialGradient id="sek_svg__paint1_radial_8751_366450" cx="0" cy="0" r="1" gradientTransform="matrix(-0.03385747,-0.36755289,0.3411427,-0.03142467,17.1379,18.2278)" gradientUnits="userSpaceOnUse">
+            <stop id="sek_svg__stop777" stop-color="white"/>
+            <stop id="sek_svg__stop779" offset="1" stop-color="#F15770"/>
+        </radialGradient>
+        <radialGradient id="sek_svg__paint2_radial_8751_366450" cx="0" cy="0" r="1" gradientTransform="matrix(0.12356113,0.14724137,-0.28911757,0.24261994,26.5405,20.2519)" gradientUnits="userSpaceOnUse">
+            <stop id="sek_svg__stop782" stop-color="white"/>
+            <stop id="sek_svg__stop784" offset="1" stop-color="#F15770"/>
+        </radialGradient>
+        <clipPath id="sek_svg__clip0_8751_366450">
+            <rect id="sek_svg__rect787" width="36" height="36" fill="white" rx="18"/>
+        </clipPath>
+        <mask id="sek_svg__mask0_8751_366450" width="36" height="36" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <circle id="sek_svg__circle9" cx="18" cy="18" r="18" fill="#D9D9D9"/>
+        </mask>
+    </defs>
+</svg>
