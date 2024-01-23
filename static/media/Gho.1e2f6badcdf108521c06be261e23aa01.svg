@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
+    <mask id="gho_svg__a" width="36" height="36" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+        <path fill="#fff" d="M35.998 0H0v35.998h35.998V0Z"/>
+    </mask>
+    <g mask="url(#gho_svg__a)">
+        <path fill="url(#gho_svg__b)" d="M18 35.998c9.94 0 17.998-8.058 17.998-17.999C35.998 8.06 27.94 0 18 0 8.06 0 0 8.058 0 18c0 9.94 8.058 17.998 18 17.998Z"/>
+        <mask id="gho_svg__c" width="24" height="20" x="6" y="8" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="#fff" d="M29.79 8.1H6.3v19.799h23.49v-19.8Z"/>
+        </mask>
+        <g mask="url(#gho_svg__c)">
+            <path fill="#fff" fill-rule="evenodd" d="m29.79 24.143-3.65-6.133h-4.59l3.69 6.133h-9.18c-3.308 0-5.804-2.778-5.804-6.133 0-3.356 2.497-6.136 5.804-6.136h7.891L21.704 8.1H16.06c-5.3 0-9.762 4.45-9.762 9.91 0 5.459 4.465 9.889 9.762 9.889h13.73M17.449 15.214c0 1.043-.822 1.887-1.835 1.887-1.014 0-1.835-.846-1.835-1.887 0-1.042.821-1.888 1.835-1.888s1.835.846 1.835 1.888Zm-1.835 7.114c1.014 0 1.835-.844 1.835-1.888 0-1.043-.822-1.887-1.835-1.887-1.014 0-1.835.844-1.835 1.887 0 1.044.821 1.888 1.835 1.888Z" clip-rule="evenodd" opacity=".8"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="gho_svg__b" x1="17.999" x2="17.999" y1=".002" y2="36" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B2B2CF"/>
+            <stop offset=".53" stop-color="#8A8BD3"/>
+            <stop offset="1" stop-color="#6B6DD6"/>
+        </linearGradient>
+    </defs>
+</svg>
