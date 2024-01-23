@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
+    <g clip-path="url(#sek_svg__a)">
+        <g clip-path="url(#sek_svg__b)">
+            <rect width="36" height="36" fill="#005AAD" rx="18"/>
+            <path fill="#FFC200" fill-rule="evenodd" d="M8.486 0v14.4h-18v7.2h18V36h7.2V21.6h32.4v-7.2h-32.4V0h-7.2Z" clip-rule="evenodd"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="sek_svg__a">
+            <rect width="36" height="36" fill="#fff" rx="18"/>
+        </clipPath>
+        <clipPath id="sek_svg__b">
+            <rect width="36" height="36" fill="#fff" rx="18"/>
+        </clipPath>
+    </defs>
+</svg>

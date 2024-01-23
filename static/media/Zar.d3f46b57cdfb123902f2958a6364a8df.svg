@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
+    <g clip-path="url(#zar_svg__a)">
+        <g clip-path="url(#zar_svg__b)">
+            <mask id="zar_svg__c" width="55" height="36" x="-2" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                <path fill="#fff" d="M-1.286 0h54v36h-54V0Z"/>
+            </mask>
+            <g mask="url(#zar_svg__c)">
+                <path fill="#002395" d="M-1.286 0v36h54V0h-54Z"/>
+                <path fill="#DE3831" d="M-1.286 0v18h54V0h-54Z"/>
+                <path fill="#000" d="m-1.286 0 27 18-27 18m27-18h27Z"/>
+                <path stroke="#F3F3F3" stroke-width="12" d="m-1.286 0 27 18m0 0-27 18m27-18h27"/>
+                <mask id="zar_svg__d" width="28" height="36" x="-2" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                    <path fill="#fff" d="m-1.286 0 27 18-27 18"/>
+                </mask>
+                <g mask="url(#zar_svg__d)">
+                    <path fill="#000" d="m-1.286 0 27 18-27 18"/>
+                    <path stroke="#FFB612" stroke-width="12" d="m-1.286 0 27 18-27 18"/>
+                </g>
+                <path stroke="#007A4D" stroke-width="7.2" d="m-1.286 0 27 18m0 0-27 18m27-18h27"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="zar_svg__a">
+            <rect width="36" height="36" fill="#fff" rx="18"/>
+        </clipPath>
+        <clipPath id="zar_svg__b">
+            <rect width="36" height="36" fill="#fff" rx="18"/>
+        </clipPath>
+    </defs>
+</svg>
