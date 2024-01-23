@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mxn_svg__svg4344" fill="none" version="1.1" viewBox="0 0 42 42">
+    <g id="mxn_svg__g4337" clip-path="url(#mxn_svg__try_svg__clip0_7674_311012)">
+        <mask id="mxn_svg__try_svg__mask0_7674_311012" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <circle id="mxn_svg__circle4324" cx="21" cy="21" r="21" fill="#D9D9D9"/>
+        </mask>
+        <g id="mxn_svg__g4335" mask="url(#mxn_svg__try_svg__mask0_7674_311012)">
+            <path id="mxn_svg__path4327" fill="#E30A17" d="M-7 -2H64V45H-7V-2Z" style="fill:#008000"/>
+            <text xml:space="preserve" id="mxn_svg__text4664" x="10.336197" y="33.974815" style="font-style:normal;font-weight:normal;font-size:35.5805px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.889512"><tspan id="mxn_svg__tspan4662" x="10.336197" y="33.974815" style="stroke-width:0.889512">₱</tspan></text>
+        </g>
+    </g>
+    <defs id="mxn_svg__defs4342">
+        <clipPath id="mxn_svg__try_svg__clip0_7674_311012">
+            <rect id="mxn_svg__rect4339" width="42" height="42" fill="white" rx="21"/>
+        </clipPath>
+    </defs>
+</svg>
