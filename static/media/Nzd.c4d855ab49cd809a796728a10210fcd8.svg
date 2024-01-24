@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <mask id="nzd_svg__a" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#nzd_svg__a)">
+        <path fill="#012169" d="M67 0h-84v42h84V0Z"/>
+        <path fill="#fff" stroke="#F3F3F3" stroke-width=".21" d="m36.403 15.748-.1-.307-.1.307-.513 1.58H33.705l.262.19 1.344.977-.514 1.58-.1.308.262-.19 1.344-.977 1.345.977.261.19-.1-.307-.513-1.58 1.344-.977.261-.19h-1.984l-.514-1.58Z"/>
+        <path fill="#C8102E" d="m36.31 15.894 1.337 4.115-3.5-2.544h4.327l-3.501 2.544.669-2.058.668-2.057Z"/>
+        <g clip-path="url(#nzd_svg__b)">
+            <path fill="#000" d="m-17 0 42 21-42-21Zm0 21L25 0l-42 21Z"/>
+            <path stroke="#fff" stroke-width="4.2" d="m-17 0 42 21m-42 0L25 0"/>
+            <path fill="#000" d="m-17 0 42 21-42-21Zm0 21L25 0l-42 21Z"/>
+            <path stroke="#C8102E" stroke-width="2.8" d="m-17 0 42 21m-42 0L25 0"/>
+            <path fill="#000" d="M4.001 0v21V0Zm-21 10.5h42-42Z"/>
+            <path stroke="#fff" stroke-width="7" d="M4.001 0v21m-21-10.5h42"/>
+            <path fill="#000" d="M4.001 0v21V0Zm-21 10.5h42-42Z"/>
+            <path stroke="#C8102E" stroke-width="4.2" d="M4.001 0v21m-21-10.5h42"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="nzd_svg__b">
+            <path fill="#fff" d="M-17 0h42v21h-42z"/>
+        </clipPath>
+    </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#cad_svg__a)">
+        <mask id="cad_svg__b" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#cad_svg__b)">
+            <path fill="#F3F3F3" d="M-8-1h58v44H-8V-1Z"/>
+            <path fill="#CF4044" d="M5.085 40.84V1.16H-8.118v39.68H5.085Zm45.033 0V1.16H36.96v39.68h13.158Zm-29.244-7.216h-1.112v-5.315l-5.967.556 1.112-2.128-6.48-4.752 1.72-.963-1.667-4.544 3.543.86 1.312-1.824 4.507 4.5-2.38-8.651 2.833 1.616 2.58-4.655 2.579 4.655 2.883-1.616-2.431 8.65 4.551-4.499 1.32 1.824 3.491-.86-1.668 4.544 1.772.963-6.53 4.752 1.163 2.128-5.974-.556v5.315h-1.157Z"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="cad_svg__a">
+            <rect width="42" height="42" fill="#fff" rx="21"/>
+        </clipPath>
+    </defs>
+</svg>

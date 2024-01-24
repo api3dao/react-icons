@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
+    <rect width="36" height="36" fill="url(#xau_svg__a)" rx="18"/>
+    <path fill="#ADA976" stroke="#F3F3F3" stroke-linejoin="round" stroke-width=".648" d="m13.89 8.742-2.023 6.241a.421.421 0 0 0 .4.551h11.466a.421.421 0 0 0 .4-.55L22.11 8.741a.324.324 0 0 0-.308-.224h-7.604c-.14 0-.264.09-.308.224Z"/>
+    <path fill="#F3F3F3" stroke="#F3F3F3" stroke-width=".324" d="m21.817 8.687-9.677 6.546 1.957-6.563 7.72.017Z"/>
+    <path fill="#F3F3F3" d="M18.11 13.854a.324.324 0 1 0 0 .648v-.648Zm5.788 0H18.11v.648h5.788v-.648Z"/>
+    <path fill="#ADA976" stroke="#F3F3F3" stroke-linejoin="round" stroke-width=".648" d="M6.282 18.35 4.26 24.591a.421.421 0 0 0 .4.552h11.466a.421.421 0 0 0 .4-.552l-2.023-6.24a.324.324 0 0 0-.308-.225H6.591c-.14 0-.265.09-.309.224Z"/>
+    <path fill="#F3F3F3" stroke="#F3F3F3" stroke-width=".324" d="m14.21 18.295-9.678 6.546 1.957-6.563 7.72.017Z"/>
+    <path fill="#F3F3F3" d="M10.502 23.462a.324.324 0 0 0 0 .648v-.648Zm5.788 0h-5.788v.648h5.788v-.648Z"/>
+    <path fill="#ADA976" stroke="#F3F3F3" stroke-linejoin="round" stroke-width=".648" d="m21.498 18.35-2.024 6.241a.421.421 0 0 0 .401.552H31.34a.421.421 0 0 0 .4-.552l-2.022-6.24a.324.324 0 0 0-.309-.225h-7.603c-.14 0-.265.09-.308.224Z"/>
+    <path fill="#F3F3F3" stroke="#F3F3F3" stroke-width=".324" d="m29.425 18.295-9.678 6.546 1.957-6.563 7.72.017Z"/>
+    <path fill="#F3F3F3" d="M25.724 23.462a.324.324 0 0 0 0 .648v-.648Zm5.787 0h-5.787v.648h5.787v-.648Z"/>
+    <defs>
+        <linearGradient id="xau_svg__a" x1="30.804" x2="5.735" y1="3.728" y2="30.784" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6C6A4F"/>
+            <stop offset="1" stop-color="#ADA976"/>
+        </linearGradient>
+    </defs>
+</svg>

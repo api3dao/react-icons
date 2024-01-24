@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#try_svg__a)">
+        <mask id="try_svg__b" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#try_svg__b)">
+            <path fill="#E30A17" d="M-7-2h71v47H-7V-2Z"/>
+            <path fill="#fff" d="M14.5 30.5a9.5 9.5 0 1 0 0-19 9.5 9.5 0 0 0 0 19Z"/>
+            <path fill="#E30A17" d="M17.5 28.5a7.5 7.5 0 1 0 0-15 7.5 7.5 0 0 0 0 15Z"/>
+            <path fill="#fff" d="m23 21 8 2.781-4.944-7.281v9L31 18.219 23 21Z"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="try_svg__a">
+            <rect width="42" height="42" fill="#fff" rx="21"/>
+        </clipPath>
+    </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <circle cx="21" cy="21" r="20" fill="#F3F3F3"/>
+    <path fill="url(#kda_svg__a)" d="m22.021 17.911.627.814s3.773 5.542 5.663 8.308c1.304 1.92 2.607 3.84 3.913 5.758.1.137.192.28.276.428-2.323.01-4.646.004-6.969.002C23.22 29.789 18.63 22.9 18.63 22.9l-.396-.72"/>
+    <path fill="url(#kda_svg__b)" d="M16.594 25.011c-.086.068-.08.181-.08.28l-.093.313-.452-7.268.554-.592c.141-.096 5.636-5.904 8.28-8.67.063-.088.176-.061.269-.07 2.3.009 6.902.006 6.902.006s-14.71 15.29-15.38 16.001Z"/>
+    <path fill="#69009A" d="M10.5 9.012h6.021v24.2H10.5v-24.2Z"/>
+    <defs>
+        <linearGradient id="kda_svg__a" x1="20.305" x2="25.885" y1="20.553" y2="28.546" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EA078C"/>
+            <stop offset="1" stop-color="#69009A"/>
+        </linearGradient>
+        <linearGradient id="kda_svg__b" x1="15.501" x2="26.85" y1="20.473" y2="13.498" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#EA078C"/>
+            <stop offset="1" stop-color="#69009A"/>
+        </linearGradient>
+    </defs>
+</svg>

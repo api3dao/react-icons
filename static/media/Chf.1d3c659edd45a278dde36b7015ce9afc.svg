@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#chf_svg__a)">
+        <mask id="chf_svg__b" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <circle cx="21" cy="21" r="21" fill="#D9D9D9"/>
+        </mask>
+        <g mask="url(#chf_svg__b)">
+            <path fill="red" d="M52.5 0h-63v42h63V0Z"/>
+            <path fill="#fff" d="M17.063 7.875h7.875v9.188h9.187v7.875h-9.188v9.187h-7.875v-9.188H7.876v-7.875h9.188V7.876Z"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="chf_svg__a">
+            <rect width="42" height="42" fill="#fff" rx="21"/>
+        </clipPath>
+    </defs>
+</svg>
