@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.daad908b.css",
-    "main.js": "/logos/static/js/main.32a89ce4.js",
+    "main.js": "/logos/static/js/main.0eeeb5f7.js",
     "static/js/496.f6d61fcf.chunk.js": "/logos/static/js/496.f6d61fcf.chunk.js",
     "static/media/Chain416.svg": "/logos/static/media/Chain416.88d70b974d42b3ec6bfd4b769741c865.svg",
     "static/media/Chain647.svg": "/logos/static/media/Chain647.fa4bb29e875df862863716b4b3274ef0.svg",
@@ -109,6 +109,7 @@
     "static/media/Chain43114.svg": "/logos/static/media/Chain43114.f309a2f8db8dbe71dd1d1feed4541528.svg",
     "static/media/EtHx.svg": "/logos/static/media/EtHx.fd256e698c3fe7b6d36c3ce7c4437cb5.svg",
     "static/media/Zar.svg": "/logos/static/media/Zar.d3f46b57cdfb123902f2958a6364a8df.svg",
+    "static/media/Chain11155420.svg": "/logos/static/media/Chain11155420.19211fbf7894f336a6b9dcc5d811dedb.svg",
     "static/media/MaticExchangeRate.svg": "/logos/static/media/MaticExchangeRate.08178fc5cd4ca8ebc1d6fdce1784d2fb.svg",
     "static/media/Nzd.svg": "/logos/static/media/Nzd.c4d855ab49cd809a796728a10210fcd8.svg",
     "static/media/SfrxEth.svg": "/logos/static/media/SfrxEth.a9df3e109d967de8b93888e985cbfcef.svg",
@@ -240,11 +241,11 @@
     "static/media/Msft.svg": "/logos/static/media/Msft.30d7233fe34a242d2cf2b55b5d5d59c0.svg",
     "static/media/Kava.svg": "/logos/static/media/Kava.41cc463950149ec606fcc47de61125fb.svg",
     "main.daad908b.css.map": "/logos/static/css/main.daad908b.css.map",
-    "main.32a89ce4.js.map": "/logos/static/js/main.32a89ce4.js.map",
+    "main.0eeeb5f7.js.map": "/logos/static/js/main.0eeeb5f7.js.map",
     "496.f6d61fcf.chunk.js.map": "/logos/static/js/496.f6d61fcf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daad908b.css",
-    "static/js/main.32a89ce4.js"
+    "static/js/main.0eeeb5f7.js"
   ]
 }
