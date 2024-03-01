@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.8e45e504.js",
+    "main.js": "/logos/static/js/main.15ca48cf.js",
     "static/js/737.c9118834.chunk.js": "/logos/static/js/737.c9118834.chunk.js",
     "static/media/Chain416.svg": "/logos/static/media/Chain416.88d70b974d42b3ec6bfd4b769741c865.svg",
     "static/media/Chain647.svg": "/logos/static/media/Chain647.fa4bb29e875df862863716b4b3274ef0.svg",
@@ -227,7 +227,9 @@
     "static/media/Chain59144.svg": "/logos/static/media/Chain59144.1a6da9684deb7ff9cc7b87421d2409ed.svg",
     "static/media/Chain59144Light.svg": "/logos/static/media/Chain59144Light.896e06e069fef3f545f88309d24bae53.svg",
     "static/media/Ltc.svg": "/logos/static/media/Ltc.f75653ae7f63cb50f8089d62c74950e4.svg",
+    "static/media/Chain168587773.svg": "/logos/static/media/Chain168587773.9ecd6fc376c16d03ebde60e9f75c13e1.svg",
     "static/media/Eul.svg": "/logos/static/media/Eul.830b9b910033e8fee45f8a3394cb7083.svg",
+    "static/media/Chain81457.svg": "/logos/static/media/Chain81457.2a853f4eb39e50788e972ea717d5afca.svg",
     "static/media/Chain59140.svg": "/logos/static/media/Chain59140.a6d221691e082f66557c38aa44570e15.svg",
     "static/media/Chain59140Light.svg": "/logos/static/media/Chain59140Light.fac69082320759e07a6de6a78935eb2d.svg",
     "static/media/Mkr.svg": "/logos/static/media/Mkr.1a110eb63e28f04d5e8718d150537440.svg",
@@ -250,11 +252,11 @@
     "static/media/Msft.svg": "/logos/static/media/Msft.30d7233fe34a242d2cf2b55b5d5d59c0.svg",
     "static/media/Kava.svg": "/logos/static/media/Kava.41cc463950149ec606fcc47de61125fb.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.8e45e504.js.map": "/logos/static/js/main.8e45e504.js.map",
+    "main.15ca48cf.js.map": "/logos/static/js/main.15ca48cf.js.map",
     "737.c9118834.chunk.js.map": "/logos/static/js/737.c9118834.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.8e45e504.js"
+    "static/js/main.15ca48cf.js"
   ]
 }
