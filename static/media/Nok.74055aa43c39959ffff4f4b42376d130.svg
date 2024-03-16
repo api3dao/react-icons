@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#nok_svg__clip0_4532_196541)">
+        <mask id="nok_svg__mask0_4532_196541" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+        </mask>
+        <g mask="url(#nok_svg__mask0_4532_196541)">
+            <mask id="nok_svg__mask1_4532_196541" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+            </mask>
+            <g mask="url(#nok_svg__mask1_4532_196541)">
+                <path fill="url(#nok_svg__paint0_linear_4532_196541)" d="M51.9297 0H-5.82031V42H51.9297V0Z"/>
+                <path stroke="white" stroke-width="10.5" d="M-5.82031 21H51.9297M15.1797 0V42"/>
+                <path stroke="#00205B" stroke-width="5.25" d="M-5.82031 21H51.9297M15.1797 0V42"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="nok_svg__paint0_linear_4532_196541" x1="23.0547" x2="23.0547" y1="0" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F62A53"/>
+            <stop offset="0.822" stop-color="#BA0C2F"/>
+        </linearGradient>
+        <clipPath id="nok_svg__clip0_4532_196541">
+            <rect width="42" height="42" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
