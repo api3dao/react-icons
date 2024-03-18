@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#amd_svg__clip0_4532_195427)">
+        <mask id="amd_svg__mask0_4532_195427" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="white" d="M0 0H42V42H0V0Z"/>
+        </mask>
+        <g mask="url(#amd_svg__mask0_4532_195427)">
+            <mask id="amd_svg__mask1_4532_195427" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+            </mask>
+            <g mask="url(#amd_svg__mask1_4532_195427)">
+                <path fill="#F5F5F5" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+                <path fill="#F3F3F3" d="M21 42C32.5978 42 42 32.5978 42 21C42 9.40217 32.5978 0 21 0C9.40217 0 0 9.40217 0 21C0 32.5978 9.40217 42 21 42Z"/>
+                <path fill="url(#amd_svg__paint0_linear_4532_195427)" d="M21 42C32.5978 42 42 32.5978 42 21C42 9.40217 32.5978 0 21 0C9.40217 0 0 9.40217 0 21C0 32.5978 9.40217 42 21 42Z" opacity="0.2"/>
+                <path fill="#DD6464" d="M26.0086 16.0068H16.1713L10.1805 10.0078H32.0088V31.8431L26.0098 25.8441L26.0086 16.0068ZM16.1771 25.8301V17.1886L10.0078 23.3591V32.0065H18.6481L24.8198 25.8301H16.1771Z"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="amd_svg__paint0_linear_4532_195427" x1="21.1377" x2="21" y1="15.3428" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="#696969"/>
+        </linearGradient>
+        <clipPath id="amd_svg__clip0_4532_195427">
+            <rect width="42" height="42" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

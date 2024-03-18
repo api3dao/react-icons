@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#rus_svg__clip0_4532_196873)">
+        <mask id="rus_svg__mask0_4532_196873" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+        </mask>
+        <g mask="url(#rus_svg__mask0_4532_196873)">
+            <path fill="white" d="M42 0H0V21H42V0Z"/>
+            <path fill="#D52B1E" d="M42 21H0V42H42V21Z"/>
+            <path fill="#0039A6" d="M42 14.0312H0V28.0312H42V14.0312Z"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="rus_svg__clip0_4532_196873">
+            <rect width="42" height="42" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

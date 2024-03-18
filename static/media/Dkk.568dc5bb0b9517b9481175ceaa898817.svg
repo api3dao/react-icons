@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#dkk_svg__clip0_4532_193546)">
+        <mask id="dkk_svg__mask0_4532_193546" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+        </mask>
+        <g mask="url(#dkk_svg__mask0_4532_193546)">
+            <mask id="dkk_svg__mask1_4532_193546" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                <path fill="white" d="M42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42C32.598 42 42 32.598 42 21Z"/>
+            </mask>
+            <g mask="url(#dkk_svg__mask1_4532_193546)">
+                <path fill="url(#dkk_svg__paint0_linear_4532_193546)" d="M-4.75781 0H50.7429V42H-4.75781V0Z"/>
+                <path stroke="white" stroke-width="6.00017" d="M-4.75781 21H50.7429M16.2422 0V42"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="dkk_svg__paint0_linear_4532_193546" x1="22.9925" x2="22.9925" y1="0" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FA1439"/>
+            <stop offset="0.604" stop-color="#C8102E"/>
+        </linearGradient>
+        <clipPath id="dkk_svg__clip0_4532_193546">
+            <rect width="42" height="42" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
