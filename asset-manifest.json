@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.fc442f6c.js",
+    "main.js": "/logos/static/js/main.811fe7c8.js",
     "static/js/908.8d174b3c.chunk.js": "/logos/static/js/908.8d174b3c.chunk.js",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
     "static/media/Pepe.svg": "/logos/static/media/Pepe.432717f0e96d4f83827116dcc71a19af.svg",
@@ -139,7 +139,6 @@
     "static/media/Xaut.svg": "/logos/static/media/Xaut.d714df3e0a1a49c60be1557e0d923c08.svg",
     "static/media/Gmt.svg": "/logos/static/media/Gmt.be7d88d2f42bc7524a7ff37817e10ff1.svg",
     "static/media/Lusd.svg": "/logos/static/media/Lusd.a55e43fa0d75e7f1caf3f9eef26f7cca.svg",
-    "static/media/Susde.svg": "/logos/static/media/Susde.9b9ed755b7b623d77ed7e50e017c74db.svg",
     "static/media/Mim.svg": "/logos/static/media/Mim.e4923ee2637a3579d425727244a38660.svg",
     "static/media/Yfi.svg": "/logos/static/media/Yfi.a1d32fb52dbfadc8b60b81a58c92e486.svg",
     "static/media/Stg.svg": "/logos/static/media/Stg.ec55c1227cbab2a930849c8bcdf8c268.svg",
@@ -218,6 +217,7 @@
     "static/media/Woo.svg": "/logos/static/media/Woo.de94f03ba6efdb576817858c3952b10f.svg",
     "static/media/Chain80001.svg": "/logos/static/media/Chain80001.363ebeaf5a430548f42e6e3604c0b21a.svg",
     "static/media/Gbp.svg": "/logos/static/media/Gbp.5138bf8e5acbe88082b2df47a6df71fb.svg",
+    "static/media/Susde.svg": "/logos/static/media/Susde.7a2c0a5a19a533589cc1de26a2d1d59d.svg",
     "static/media/Ksm.svg": "/logos/static/media/Ksm.18c2cb322b0a304fd4f69f1b9af5a72e.svg",
     "static/media/Usdb.svg": "/logos/static/media/Usdb.2acf792507eac0bd584069fb6b3c6b53.svg",
     "static/media/Usdt.svg": "/logos/static/media/Usdt.38b0056af3c33d14d03b7c0b4276c073.svg",
@@ -335,11 +335,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.fc442f6c.js.map": "/logos/static/js/main.fc442f6c.js.map",
+    "main.811fe7c8.js.map": "/logos/static/js/main.811fe7c8.js.map",
     "908.8d174b3c.chunk.js.map": "/logos/static/js/908.8d174b3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.fc442f6c.js"
+    "static/js/main.811fe7c8.js"
   ]
 }
