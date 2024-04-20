@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.811fe7c8.js",
+    "main.js": "/logos/static/js/main.42befe74.js",
     "static/js/908.8d174b3c.chunk.js": "/logos/static/js/908.8d174b3c.chunk.js",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
     "static/media/Pepe.svg": "/logos/static/media/Pepe.432717f0e96d4f83827116dcc71a19af.svg",
@@ -52,12 +52,14 @@
     "static/media/Maticx.svg": "/logos/static/media/Maticx.5aa1813bbc7b3093d7dd4d23b7dca667.svg",
     "static/media/Chain534352.svg": "/logos/static/media/Chain534352.5b68c02b5e75190c77a238d2046cc791.svg",
     "static/media/Zs.svg": "/logos/static/media/Zs.ae1a1ff8888e0c1fce2073182fd71654.svg",
+    "static/media/Manta.svg": "/logos/static/media/Manta.02a8dde1ade88057d90adbeb745b3c79.svg",
     "static/media/Chain1284.svg": "/logos/static/media/Chain1284.2a5d4f431f14a9519d19e739ef075172.svg",
     "static/media/Chain1287.svg": "/logos/static/media/Chain1287.4e3cae945f1902e2a5d0971c4c272c8e.svg",
     "static/media/Btc.svg": "/logos/static/media/Btc.0270869f1666953f07fc0553e4b7fc5f.svg",
     "static/media/Ada.svg": "/logos/static/media/Ada.ea0d4368563dbc8d08ab2821890bedd7.svg",
     "static/media/Gns.svg": "/logos/static/media/Gns.3be808b9013b02704969e10600bf88e6.svg",
     "static/media/Chain534353.svg": "/logos/static/media/Chain534353.dcb4bff0955ca6b00ed0f53d7715c2f3.svg",
+    "static/media/Strk.svg": "/logos/static/media/Strk.dfab3ff4f7e5f18db7b709d40f0fb621.svg",
     "static/media/Php.svg": "/logos/static/media/Php.5d0d47de724a2e8acecec2cee45986a6.svg",
     "static/media/Dis.svg": "/logos/static/media/Dis.4794d2c05af7bc91ad33ded695ffa71b.svg",
     "static/media/Ethx.svg": "/logos/static/media/Ethx.c75b3859b6b538284b8ae2f79526f230.svg",
@@ -69,6 +71,7 @@
     "static/media/Chain31.svg": "/logos/static/media/Chain31.e6cf087be387ae20ce10c4130ba870d2.svg",
     "static/media/Sfrxeth.svg": "/logos/static/media/Sfrxeth.5fa5d5a59fe9ee365175e1b805ed6804.svg",
     "static/media/Pyusd.svg": "/logos/static/media/Pyusd.9329b92ee0ed7035c406916eac0d1b82.svg",
+    "static/media/Ron.svg": "/logos/static/media/Ron.a9dfd87b0beb50cc01a2e3b6fb15d0e5.svg",
     "static/media/Usdd.svg": "/logos/static/media/Usdd.0453a674629090ef3a50a46003e0c6a7.svg",
     "static/media/Eb.svg": "/logos/static/media/Eb.d0848bd684f4505d94f771dc2d94223a.svg",
     "static/media/Chain250.svg": "/logos/static/media/Chain250.28ffe41f17b3da664eaa53a7456eb78a.svg",
@@ -92,6 +95,7 @@
     "static/media/Baba.svg": "/logos/static/media/Baba.f69191779e84c853685ee68b78e6676d.svg",
     "static/media/Rbtc.svg": "/logos/static/media/Rbtc.75b4cedbce8d1590c90c93f17b39a762.svg",
     "static/media/Frax.svg": "/logos/static/media/Frax.c4bd9a3b95aecd1ca88aac847bff9a03.svg",
+    "static/media/Ar.svg": "/logos/static/media/Ar.38b8151d97655c1159f62a87f9915125.svg",
     "static/media/Nke.svg": "/logos/static/media/Nke.2c7a5653599f4c115812f5fef969e5db.svg",
     "static/media/Srm.svg": "/logos/static/media/Srm.3f55c5ef16fdd0551e0234c486a694b0.svg",
     "static/media/Wusdm.svg": "/logos/static/media/Wusdm.bc982912a792ed17f48c6d85317aba92.svg",
@@ -219,6 +223,7 @@
     "static/media/Gbp.svg": "/logos/static/media/Gbp.5138bf8e5acbe88082b2df47a6df71fb.svg",
     "static/media/Susde.svg": "/logos/static/media/Susde.7a2c0a5a19a533589cc1de26a2d1d59d.svg",
     "static/media/Ksm.svg": "/logos/static/media/Ksm.18c2cb322b0a304fd4f69f1b9af5a72e.svg",
+    "static/media/Axl.svg": "/logos/static/media/Axl.64716715cab8590d955d0fdc25e6a3a6.svg",
     "static/media/Usdb.svg": "/logos/static/media/Usdb.2acf792507eac0bd584069fb6b3c6b53.svg",
     "static/media/Usdt.svg": "/logos/static/media/Usdt.38b0056af3c33d14d03b7c0b4276c073.svg",
     "static/media/Mimatic.svg": "/logos/static/media/Mimatic.fe45ebaf0bc28de3ec819d4739c78f34.svg",
@@ -335,11 +340,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.811fe7c8.js.map": "/logos/static/js/main.811fe7c8.js.map",
+    "main.42befe74.js.map": "/logos/static/js/main.42befe74.js.map",
     "908.8d174b3c.chunk.js.map": "/logos/static/js/908.8d174b3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.811fe7c8.js"
+    "static/js/main.42befe74.js"
   ]
 }
