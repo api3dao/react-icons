@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.cc8fdbc4.js",
+    "main.js": "/logos/static/js/main.cdf5f618.js",
     "static/js/944.aa204e5f.chunk.js": "/logos/static/js/944.aa204e5f.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -62,6 +62,8 @@
     "static/media/Chain1284.svg": "/logos/static/media/Chain1284.2a5d4f431f14a9519d19e739ef075172.svg",
     "static/media/Chain1287.svg": "/logos/static/media/Chain1287.4e3cae945f1902e2a5d0971c4c272c8e.svg",
     "static/media/Btc.svg": "/logos/static/media/Btc.0270869f1666953f07fc0553e4b7fc5f.svg",
+    "static/media/Chain2424.svg": "/logos/static/media/Chain2424.02d690119ac195707f5ce17de79099ee.svg",
+    "static/media/Chain2525.svg": "/logos/static/media/Chain2525.f48e29f50f6a9029c7c0157404d0e271.svg",
     "static/media/Ada.svg": "/logos/static/media/Ada.ea0d4368563dbc8d08ab2821890bedd7.svg",
     "static/media/Gns.svg": "/logos/static/media/Gns.3be808b9013b02704969e10600bf88e6.svg",
     "static/media/Strk.svg": "/logos/static/media/Strk.dfab3ff4f7e5f18db7b709d40f0fb621.svg",
@@ -91,7 +93,6 @@
     "static/media/Chain196Light.svg": "/logos/static/media/Chain196Light.0228d9caa969375194288af70ab88364.svg",
     "static/media/Chain196.svg": "/logos/static/media/Chain196.0a703a4061cf062783ab36e0ec85f30a.svg",
     "static/media/Chain167009.svg": "/logos/static/media/Chain167009.3ace3cb4c0f4e5a7f25654688642eaa2.svg",
-    "static/media/Chain2525.svg": "/logos/static/media/Chain2525.ddf12fb9fd89ab0ddb0c8408935aafb9.svg",
     "static/media/Dai.svg": "/logos/static/media/Dai.da73dd04684ed97696de2f2ad45cc6be.svg",
     "static/media/Luna.svg": "/logos/static/media/Luna.3e0ceed29ae598448adeed65eda71de5.svg",
     "static/media/Sei.svg": "/logos/static/media/Sei.f9d6fd645e8d9a930c6eaa1a04d7fd20.svg",
@@ -136,7 +137,6 @@
     "static/media/Matic.svg": "/logos/static/media/Matic.9ed49c07f5ff553416f2dc9b5b59dc6c.svg",
     "static/media/Pypl.svg": "/logos/static/media/Pypl.4e90b3ed792a2a206f3e6be972345e60.svg",
     "static/media/Ftm.svg": "/logos/static/media/Ftm.1ddc0ca2334823c7fe4ec93ba46ea721.svg",
-    "static/media/Chain2424.svg": "/logos/static/media/Chain2424.707ae9418c057c0e21a4b118ce89ab45.svg",
     "static/media/Chain245022934.svg": "/logos/static/media/Chain245022934.dd5da3e2da2afda05ccb0c670efed436.svg",
     "static/media/Paxg.svg": "/logos/static/media/Paxg.f1e84203bb65e87e687a99c55fa34d55.svg",
     "static/media/Chain245022926.svg": "/logos/static/media/Chain245022926.95cbe3ed318951918e72727c0c6914a4.svg",
@@ -375,11 +375,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.cc8fdbc4.js.map": "/logos/static/js/main.cc8fdbc4.js.map",
+    "main.cdf5f618.js.map": "/logos/static/js/main.cdf5f618.js.map",
     "944.aa204e5f.chunk.js.map": "/logos/static/js/944.aa204e5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.cc8fdbc4.js"
+    "static/js/main.cdf5f618.js"
   ]
 }
