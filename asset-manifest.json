@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.c3d015e9.js",
+    "main.js": "/logos/static/js/main.1bd91eb1.js",
     "static/js/411.f27f51ec.chunk.js": "/logos/static/js/411.f27f51ec.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -97,6 +97,7 @@
     "static/media/Chain195.svg": "/logos/static/media/Chain195.69246fb3256d47c4ed889444fa15ca7c.svg",
     "static/media/Chain196Light.svg": "/logos/static/media/Chain196Light.0228d9caa969375194288af70ab88364.svg",
     "static/media/Chain196.svg": "/logos/static/media/Chain196.0a703a4061cf062783ab36e0ec85f30a.svg",
+    "static/media/Chain167000.svg": "/logos/static/media/Chain167000.21d9788c6853bd66368e20b33df97e1a.svg",
     "static/media/Chain167009.svg": "/logos/static/media/Chain167009.3ace3cb4c0f4e5a7f25654688642eaa2.svg",
     "static/media/Dai.svg": "/logos/static/media/Dai.da73dd04684ed97696de2f2ad45cc6be.svg",
     "static/media/Luna.svg": "/logos/static/media/Luna.3e0ceed29ae598448adeed65eda71de5.svg",
@@ -128,6 +129,7 @@
     "static/media/Frxeth.svg": "/logos/static/media/Frxeth.e12d252a4d8f304cc1305f64ed3d78c4.svg",
     "static/media/Twt.svg": "/logos/static/media/Twt.a952a355e87289d1202091fe3f51024c.svg",
     "static/media/Iotx.svg": "/logos/static/media/Iotx.7440c12e345a645303feb47544e6917c.svg",
+    "static/media/Chain1329.svg": "/logos/static/media/Chain1329.f8de7b383eb162daeb4352a0891c1362.svg",
     "static/media/Zc.svg": "/logos/static/media/Zc.190fe35fc100056d23f6b757b0f3a7aa.svg",
     "static/media/Icp.svg": "/logos/static/media/Icp.0a03234cd49a2a85c963f8ea98e4c9de.svg",
     "static/media/Movr.svg": "/logos/static/media/Movr.00040bea4d8018942aee0f5fb3a8a78c.svg",
@@ -385,11 +387,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.c3d015e9.js.map": "/logos/static/js/main.c3d015e9.js.map",
+    "main.1bd91eb1.js.map": "/logos/static/js/main.1bd91eb1.js.map",
     "411.f27f51ec.chunk.js.map": "/logos/static/js/411.f27f51ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.c3d015e9.js"
+    "static/js/main.1bd91eb1.js"
   ]
 }
