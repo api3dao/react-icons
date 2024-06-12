@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.0b34ebf6.js",
-    "static/js/411.f27f51ec.chunk.js": "/logos/static/js/411.f27f51ec.chunk.js",
+    "main.js": "/logos/static/js/main.049e3ae4.js",
+    "static/js/636.4ed955f1.chunk.js": "/logos/static/js/636.4ed955f1.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
     "static/media/Pepe.svg": "/logos/static/media/Pepe.432717f0e96d4f83827116dcc71a19af.svg",
@@ -100,7 +100,6 @@
     "static/media/Rseth.svg": "/logos/static/media/Rseth.77eb494bc6af2a3c1a8ad503d6668fc4.svg",
     "static/media/Qcom.svg": "/logos/static/media/Qcom.542e3f972c5eac86beadae6c114d4c6e.svg",
     "static/media/Pltr.svg": "/logos/static/media/Pltr.766dbe9e5954ae911e78ac5bf06f4cca.svg",
-    "static/media/Taiko.svg": "/logos/static/media/Taiko.f056a002836b2f55a7eabc15fcd13cd9.svg",
     "static/media/Chain1891.svg": "/logos/static/media/Chain1891.6696a977854e5353e5b1d3724011b965.svg",
     "static/media/Okb.svg": "/logos/static/media/Okb.f86a4abd7aa148d9e03907c747216c18.svg",
     "static/media/Chain195.svg": "/logos/static/media/Chain195.69246fb3256d47c4ed889444fa15ca7c.svg",
@@ -406,11 +405,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.0b34ebf6.js.map": "/logos/static/js/main.0b34ebf6.js.map",
-    "411.f27f51ec.chunk.js.map": "/logos/static/js/411.f27f51ec.chunk.js.map"
+    "main.049e3ae4.js.map": "/logos/static/js/main.049e3ae4.js.map",
+    "636.4ed955f1.chunk.js.map": "/logos/static/js/636.4ed955f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.0b34ebf6.js"
+    "static/js/main.049e3ae4.js"
   ]
 }
