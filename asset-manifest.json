@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.40c567f1.js",
+    "main.js": "/logos/static/js/main.135a2d81.js",
     "static/js/636.4ed955f1.chunk.js": "/logos/static/js/636.4ed955f1.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -110,6 +110,7 @@
     "static/media/Chain167000.svg": "/logos/static/media/Chain167000.21d9788c6853bd66368e20b33df97e1a.svg",
     "static/media/Chain167009.svg": "/logos/static/media/Chain167009.3ace3cb4c0f4e5a7f25654688642eaa2.svg",
     "static/media/Dai.svg": "/logos/static/media/Dai.da73dd04684ed97696de2f2ad45cc6be.svg",
+    "static/media/Weeths.svg": "/logos/static/media/Weeths.e5bb377f7e184afa96007918d9da35b4.svg",
     "static/media/Luna.svg": "/logos/static/media/Luna.3e0ceed29ae598448adeed65eda71de5.svg",
     "static/media/Pypl.svg": "/logos/static/media/Pypl.8cd9f59e68c1083a82bcb978d49eefeb.svg",
     "static/media/Sei.svg": "/logos/static/media/Sei.f9d6fd645e8d9a930c6eaa1a04d7fd20.svg",
@@ -407,11 +408,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.40c567f1.js.map": "/logos/static/js/main.40c567f1.js.map",
+    "main.135a2d81.js.map": "/logos/static/js/main.135a2d81.js.map",
     "636.4ed955f1.chunk.js.map": "/logos/static/js/636.4ed955f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.40c567f1.js"
+    "static/js/main.135a2d81.js"
   ]
 }
