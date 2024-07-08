@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.3cc2a358.js",
+    "main.js": "/logos/static/js/main.d8a16149.js",
     "static/js/521.16fba0f6.chunk.js": "/logos/static/js/521.16fba0f6.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -225,6 +225,7 @@
     "static/media/Pendle.svg": "/logos/static/media/Pendle.1925960006c98a071dc01b5af7c1abb7.svg",
     "static/media/Op.svg": "/logos/static/media/Op.0bb0aee5de3b3cd174fa98d66ba9dc7d.svg",
     "static/media/Chain137.svg": "/logos/static/media/Chain137.2485a151ff5365b01be975fb04f433fe.svg",
+    "static/media/Chain48900.svg": "/logos/static/media/Chain48900.3de23bebcaa0e22724e0b0a5c2f758e5.svg",
     "static/media/Chain1750.svg": "/logos/static/media/Chain1750.7aef06128f961e992d30d4d9a08dfe78.svg",
     "static/media/Tfuel.svg": "/logos/static/media/Tfuel.53a0ff004d1c3ec74f16085d113beb2c.svg",
     "static/media/Usde.svg": "/logos/static/media/Usde.d4b4e8e77128918278b55c57374cc845.svg",
@@ -408,11 +409,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.3cc2a358.js.map": "/logos/static/js/main.3cc2a358.js.map",
+    "main.d8a16149.js.map": "/logos/static/js/main.d8a16149.js.map",
     "521.16fba0f6.chunk.js.map": "/logos/static/js/521.16fba0f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.3cc2a358.js"
+    "static/js/main.d8a16149.js"
   ]
 }
