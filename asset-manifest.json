@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.ddbe7633.js",
+    "main.js": "/logos/static/js/main.9bb68157.js",
     "static/js/521.16fba0f6.chunk.js": "/logos/static/js/521.16fba0f6.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -164,7 +164,6 @@
     "static/media/Xag.svg": "/logos/static/media/Xag.9aeb11a57d449402ce4001da888f074c.svg",
     "static/media/Xau.svg": "/logos/static/media/Xau.992ae21cdf5b1d7211cb8606d5e31d11.svg",
     "static/media/Rsweth.svg": "/logos/static/media/Rsweth.e51509330d9fff308193950ec8e290c2.svg",
-    "static/media/Finnhub.svg": "/logos/static/media/Finnhub.da31ea0981d29c943120e71dde72d92c.svg",
     "static/media/Ezeth.svg": "/logos/static/media/Ezeth.0d670375bc2f5f18a5e1c4c589385cfb.svg",
     "static/media/EthxLight.svg": "/logos/static/media/EthxLight.c867bb519bb9ec5943f5383a0fc746da.svg",
     "static/media/Sgd.svg": "/logos/static/media/Sgd.4e9b7f572a912bcc9f94367991ca684f.svg",
@@ -295,7 +294,6 @@
     "static/media/Bnb.svg": "/logos/static/media/Bnb.bb82d95830e5e50dc6eab87805051f26.svg",
     "static/media/Qnt.svg": "/logos/static/media/Qnt.567a5b1bb59708076db729eb60282095.svg",
     "static/media/Blur.svg": "/logos/static/media/Blur.7db5290b1016899e9d5099148c6c3e95.svg",
-    "static/media/Tradermade.svg": "/logos/static/media/Tradermade.6905bf4ebf35d040765db25b41e2a15c.svg",
     "static/media/Bal.svg": "/logos/static/media/Bal.47138317e76a6fc10f4ee0e84da67d67.svg",
     "static/media/Tao.svg": "/logos/static/media/Tao.14cc4880c47b9ed5d70a0ee4a57d298a.svg",
     "static/media/Rus.svg": "/logos/static/media/Rus.ed00a1692c8d213beac1958af45f336e.svg",
@@ -410,11 +408,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.ddbe7633.js.map": "/logos/static/js/main.ddbe7633.js.map",
+    "main.9bb68157.js.map": "/logos/static/js/main.9bb68157.js.map",
     "521.16fba0f6.chunk.js.map": "/logos/static/js/521.16fba0f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.ddbe7633.js"
+    "static/js/main.9bb68157.js"
   ]
 }
