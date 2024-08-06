@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.c8a2bb49.js",
+    "main.js": "/logos/static/js/main.74a1f9e7.js",
     "static/js/88.adeba666.chunk.js": "/logos/static/js/88.adeba666.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -78,6 +78,8 @@
     "static/media/Php.svg": "/logos/static/media/Php.5d0d47de724a2e8acecec2cee45986a6.svg",
     "static/media/Dis.svg": "/logos/static/media/Dis.4794d2c05af7bc91ad33ded695ffa71b.svg",
     "static/media/Ethx.svg": "/logos/static/media/Ethx.c75b3859b6b538284b8ae2f79526f230.svg",
+    "static/media/Chain3441006.svg": "/logos/static/media/Chain3441006.8af2a9d00f89606603d52a54b1dee101.svg",
+    "static/media/Chain169.svg": "/logos/static/media/Chain169.05555feaac81d46e7c14c92fb0679919.svg",
     "static/media/BnbxLight.svg": "/logos/static/media/BnbxLight.6e9e9706727c31bb64942d975e5b6e2c.svg",
     "static/media/Baba.svg": "/logos/static/media/Baba.a6e8b2ee9652841c6ee17bafff56f3ec.svg",
     "static/media/Bnbx.svg": "/logos/static/media/Bnbx.1d188b849ad9b93d00547f31d363a795.svg",
@@ -412,11 +414,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.c8a2bb49.js.map": "/logos/static/js/main.c8a2bb49.js.map",
+    "main.74a1f9e7.js.map": "/logos/static/js/main.74a1f9e7.js.map",
     "88.adeba666.chunk.js.map": "/logos/static/js/88.adeba666.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.c8a2bb49.js"
+    "static/js/main.74a1f9e7.js"
   ]
 }
