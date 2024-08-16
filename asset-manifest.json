@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.a9b78b7d.js",
+    "main.js": "/logos/static/js/main.aa5d738c.js",
     "static/js/883.f5b2310e.chunk.js": "/logos/static/js/883.f5b2310e.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -367,6 +367,7 @@
     "static/media/Theta.svg": "/logos/static/media/Theta.2048073e3717ce75707b54c6679c8845.svg",
     "static/media/Stock.svg": "/logos/static/media/Stock.8728d174f18ef5ced39c4ba424951a66.svg",
     "static/media/Ankr.svg": "/logos/static/media/Ankr.7eeff1c0d6b6706e1c6651da1beed76c.svg",
+    "static/media/Cfx.svg": "/logos/static/media/Cfx.0a3383f704c4d49df7a6cb7cf6f9f12b.svg",
     "static/media/Coin.svg": "/logos/static/media/Coin.47f5dc874d2b21680b0959d57b39b80c.svg",
     "static/media/Link.svg": "/logos/static/media/Link.2bc06e19f2143c8c30462448af908980.svg",
     "static/media/Jst.svg": "/logos/static/media/Jst.74bac7075b8444795f911954cff760fa.svg",
@@ -417,11 +418,11 @@
     "static/media/Waves.svg": "/logos/static/media/Waves.642d4b5436ecd279713c3d3ac87702fb.svg",
     "static/media/Ftx.svg": "/logos/static/media/Ftx.341de8b74f9f0820d920140a9c68ef3f.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.a9b78b7d.js.map": "/logos/static/js/main.a9b78b7d.js.map",
+    "main.aa5d738c.js.map": "/logos/static/js/main.aa5d738c.js.map",
     "883.f5b2310e.chunk.js.map": "/logos/static/js/883.f5b2310e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.a9b78b7d.js"
+    "static/js/main.aa5d738c.js"
   ]
 }
