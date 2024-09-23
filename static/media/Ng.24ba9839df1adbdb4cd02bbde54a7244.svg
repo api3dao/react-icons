@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
+    <rect width="35.998" height="35.998" fill="url(#ng_svg__a)" rx="17.999"/>
+    <path fill="url(#ng_svg__b)" stroke="url(#ng_svg__c)" stroke-linejoin="round" stroke-width=".857" d="M11.624 20.09c.488-4.155 5.38-6.085 6.33-12.596 4.484 4.455 6.473 8.06 6.473 12.596 0 4.537-3.02 7.963-6.474 7.963s-6.85-3.54-6.33-7.963Z"/>
+    <path fill="url(#ng_svg__d)" d="M18 28.503c-2.373 0-4.385-2.836-4.045-5.235.165-1.427 1.36-2.74 1.7-4.797 1.019 1.028 1.017 3.427 1.017 3.427 1.696-1.713 2.851-5.421 3.056-6.853 1.698 2.399 2.717 4.271 2.717 7.446 0 3.176-2.074 6.012-4.446 6.012Z"/>
+    <defs>
+        <linearGradient id="ng_svg__a" x1="33.404" x2="20.996" y1="1.514" y2="23.637" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#7FA1B5"/>
+            <stop offset="1" stop-color="#DDEAF2"/>
+            <stop offset="1" stop-color="#D8D8D8"/>
+        </linearGradient>
+        <linearGradient id="ng_svg__b" x1="17.999" x2="17.999" y1="7.494" y2="28.053" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#54759F"/>
+            <stop offset="1" stop-color="#385171"/>
+        </linearGradient>
+        <linearGradient id="ng_svg__c" x1="17.999" x2="17.999" y1="7.494" y2="28.053" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#BDD2DF"/>
+        </linearGradient>
+        <linearGradient id="ng_svg__d" x1="20.67" x2="21.383" y1="18.845" y2="27.128" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F3F3F3" stop-opacity=".953"/>
+            <stop offset="1" stop-color="#BFD3E0"/>
+        </linearGradient>
+    </defs>
+</svg>
