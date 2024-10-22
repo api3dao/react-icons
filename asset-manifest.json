@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.509a49d8.js",
+    "main.js": "/logos/static/js/main.3e72c969.js",
     "static/js/962.8b684855.chunk.js": "/logos/static/js/962.8b684855.chunk.js",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
     "static/media/Pufeth.svg": "/logos/static/media/Pufeth.24b74bd98541650250a333c1895573f7.svg",
@@ -15,6 +15,7 @@
     "static/media/Astr.svg": "/logos/static/media/Astr.9b3a8c7a19c67cdef131cc0a4f3f7117.svg",
     "static/media/Api3.svg": "/logos/static/media/Api3.73b19cdd0986dfe400f741868053cb87.svg",
     "static/media/Tia.svg": "/logos/static/media/Tia.cddacdcc42a6ad0518e80a0db9ca8592.svg",
+    "static/media/Lseth.svg": "/logos/static/media/Lseth.8af40d7ed62d472af6a3edc97241bd12.svg",
     "static/media/Pxeth.svg": "/logos/static/media/Pxeth.643a554da4d0d0bc26e3644f178897de.svg",
     "static/media/Apxeth.svg": "/logos/static/media/Apxeth.d3e84f33c677ce0e80ce5dc6350ce0fb.svg",
     "static/media/Quick.svg": "/logos/static/media/Quick.f9edfedca59611ac7a78cd5a59a2269b.svg",
@@ -89,6 +90,7 @@
     "static/media/Chain167009.svg": "/logos/static/media/Chain167009.3ace3cb4c0f4e5a7f25654688642eaa2.svg",
     "static/media/Dai.svg": "/logos/static/media/Dai.da73dd04684ed97696de2f2ad45cc6be.svg",
     "static/media/Weeths.svg": "/logos/static/media/Weeths.e5bb377f7e184afa96007918d9da35b4.svg",
+    "static/media/Insfrxeth.svg": "/logos/static/media/Insfrxeth.de9e038203de2817149dd6f5c87b1a98.svg",
     "static/media/Sei.svg": "/logos/static/media/Sei.f9d6fd645e8d9a930c6eaa1a04d7fd20.svg",
     "static/media/Chain11155420.svg": "/logos/static/media/Chain11155420.f8fae31c676ef2c8371d06f21424c8db.svg",
     "static/media/Usdy.svg": "/logos/static/media/Usdy.d6df4cec430cd6052d22ef46d1845185.svg",
@@ -153,6 +155,7 @@
     "static/media/Degen.svg": "/logos/static/media/Degen.863a7370e2e41d72d0d81b1667031e85.svg",
     "static/media/Kaiko.svg": "/logos/static/media/Kaiko.ee975928453e132563fb169648f4298c.svg",
     "static/media/Core.svg": "/logos/static/media/Core.63a21634eaf79b72ab08ab1aef10561d.svg",
+    "static/media/Cmeth.svg": "/logos/static/media/Cmeth.28e8b950634deee5f35fd2d3e51a35c2.svg",
     "static/media/Meth.svg": "/logos/static/media/Meth.c669a047a6a8078d0c62302897f9960c.svg",
     "static/media/UniEth.svg": "/logos/static/media/UniEth.277f732be038e313632a1940cb1fcd54.svg",
     "static/media/Zrx.svg": "/logos/static/media/Zrx.059d24a143e9570c183d413695dac2b7.svg",
@@ -228,6 +231,7 @@
     "static/media/Chain48899.svg": "/logos/static/media/Chain48899.a99a64b3245151fe69ebcd3d4d59494e.svg",
     "static/media/Chain11155111.svg": "/logos/static/media/Chain11155111.7c82911715b2fc927a0742966b905b1d.svg",
     "static/media/Mask.svg": "/logos/static/media/Mask.3be42fbd1ce3867e7d3538bff3b72b25.svg",
+    "static/media/Lumia.svg": "/logos/static/media/Lumia.4ad390a6b777b47a3cd1c687a73f7fbc.svg",
     "static/media/Ncfx.svg": "/logos/static/media/Ncfx.16cc436fb8b22678c09543485146e0d9.svg",
     "static/media/Chain1.svg": "/logos/static/media/Chain1.70e9eab7228ea2f81301d3441210c151.svg",
     "static/media/Bnb.svg": "/logos/static/media/Bnb.bb82d95830e5e50dc6eab87805051f26.svg",
@@ -314,11 +318,11 @@
     "static/media/Celo.svg": "/logos/static/media/Celo.f5086b90b66ad4b68b0ec200e9a6043d.svg",
     "static/media/Kava.svg": "/logos/static/media/Kava.41cc463950149ec606fcc47de61125fb.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.509a49d8.js.map": "/logos/static/js/main.509a49d8.js.map",
+    "main.3e72c969.js.map": "/logos/static/js/main.3e72c969.js.map",
     "962.8b684855.chunk.js.map": "/logos/static/js/962.8b684855.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.509a49d8.js"
+    "static/js/main.3e72c969.js"
   ]
 }
