@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <g clip-path="url(#gho_svg__clip0_4532_195587)">
+        <mask id="gho_svg__mask0_4532_195587" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+            <path fill="white" d="M41.9977 0H0V41.9977H41.9977V0Z"/>
+        </mask>
+        <g mask="url(#gho_svg__mask0_4532_195587)">
+            <path fill="url(#gho_svg__paint0_linear_4532_195587)" d="M21 41.9977C32.5967 41.9977 41.9977 32.5967 41.9977 20.9988C41.9977 9.40333 32.5967 0 21 0C9.40333 0 0 9.401 0 21C0 32.5967 9.401 41.9977 21 41.9977Z"/>
+            <mask id="gho_svg__mask1_4532_195587" width="28" height="24" x="7" y="9" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+                <path fill="white" d="M34.7175 9.51679H7.3125V32.6156H34.7175V9.51562V9.51679Z"/>
+            </mask>
+            <g mask="url(#gho_svg__mask1_4532_195587)">
+                <path fill="white" fill-rule="evenodd" d="M34.7198 28.2325L30.4615 21.0773H25.1065L29.4115 28.2325H18.7015C14.8422 28.2325 11.9302 24.9915 11.9302 21.0773C11.9302 17.162 14.8433 13.9186 18.7015 13.9186H27.9077L25.2862 9.51562H18.7015C12.5182 9.51562 7.3125 14.7073 7.3125 21.0773C7.3125 27.4461 12.5217 32.6145 18.7015 32.6145H34.7198M20.322 17.8153C20.322 19.0321 19.363 20.0168 18.1812 20.0168C16.9982 20.0168 16.0403 19.0298 16.0403 17.8153C16.0403 16.5996 16.9982 15.6126 18.1812 15.6126C19.3642 15.6126 20.322 16.5996 20.322 17.8153ZM18.1812 26.115C19.3642 26.115 20.322 25.1303 20.322 23.9123C20.322 22.6955 19.363 21.7108 18.1812 21.7108C16.9982 21.7108 16.0403 22.6955 16.0403 23.9123C16.0403 25.1303 16.9982 26.115 18.1812 26.115Z" clip-rule="evenodd" opacity="0.8"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="gho_svg__paint0_linear_4532_195587" x1="20.9988" x2="20.9988" y1="0.00233333" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B2B2CF"/>
+            <stop offset="0.53" stop-color="#8A8BD3"/>
+            <stop offset="1" stop-color="#6B6DD6"/>
+        </linearGradient>
+        <clipPath id="gho_svg__clip0_4532_195587">
+            <rect width="42" height="42" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

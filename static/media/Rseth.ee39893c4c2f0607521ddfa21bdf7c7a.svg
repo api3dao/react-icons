@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 42 42">
+    <rect width="42" height="42" fill="#075A5A" rx="21"/>
+    <g opacity="0.3" style="mix-blend-mode:screen">
+        <path fill="white" d="M21.002 5.59961V16.986L30.6257 21.2866L21.002 5.59961Z" opacity="0.8"/>
+        <path fill="white" d="M20.9927 5.59961L11.3672 21.2866L20.9927 16.986V5.59961Z"/>
+        <path fill="white" d="M21.002 28.6613V36.3984L30.6324 23.0742L21.002 28.6613Z" opacity="0.8"/>
+        <path fill="white" d="M20.9927 36.3984V28.6601L11.3672 23.0742L20.9927 36.3984Z"/>
+        <path fill="white" d="M21.002 26.8782L30.6257 21.29L21.002 16.9922V26.8782Z" opacity="0.5"/>
+        <path fill="white" fill-opacity="0.3" d="M11.3672 21.29L20.9927 26.8782V16.9922L11.3672 21.29Z"/>
+    </g>
+    <g opacity="0.3" style="mix-blend-mode:screen">
+        <path fill="white" d="M21.001 6.17188V16.7256L29.921 20.7117L21.001 6.17188Z" opacity="0.8"/>
+        <path fill="white" d="M20.9938 6.17188L12.0723 20.7117L20.9938 16.7256V6.17188Z"/>
+        <path fill="white" d="M21.001 29.183V35.5762L28.9588 24.5664L21.001 29.183Z" opacity="0.8"/>
+        <path fill="white" d="M21.001 35.5762V29.1821L13.0474 24.5664L21.001 35.5762Z"/>
+        <path fill="white" d="M21.001 26.5087L29.921 21.3292L21.001 17.3457V26.5087Z" opacity="0.5"/>
+        <path fill="white" fill-opacity="0.3" d="M12.0723 21.3292L20.9938 26.5087V17.3457L12.0723 21.3292Z"/>
+    </g>
+    <path fill="#C1DCDC" d="M21.002 8.97656V17.8647L28.5142 21.2219L21.002 8.97656Z"/>
+    <path fill="white" d="M20.9984 8.97656L13.4849 21.2219L20.9984 17.8647V8.97656Z"/>
+    <path fill="#C1DCDC" d="M21.002 26.9824V33.0219L28.5195 22.6211L21.002 26.9824Z"/>
+    <path fill="white" d="M20.9984 33.0219V26.9814L13.4849 22.6211L20.9984 33.0219Z"/>
+    <path fill="white" d="M21.002 25.5842L28.5142 21.222L21.002 17.8672V25.5842Z" opacity="0.5"/>
+    <path fill="white" fill-opacity="0.3" d="M13.4849 21.222L20.9984 25.5842V17.8672L13.4849 21.222Z"/>
+</svg>
