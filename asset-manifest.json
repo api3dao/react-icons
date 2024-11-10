@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.fbeaf180.js",
+    "main.js": "/logos/static/js/main.bcd9a8d3.js",
     "static/js/35.75e36e13.chunk.js": "/logos/static/js/35.75e36e13.chunk.js",
     "static/media/Brett.svg": "/logos/static/media/Brett.ffb8996b9d5ad66d9cf49ad4d3eba084.svg",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
@@ -72,7 +72,7 @@
     "static/media/Chain169.svg": "/logos/static/media/Chain169.05555feaac81d46e7c14c92fb0679919.svg",
     "static/media/BnbxLight.svg": "/logos/static/media/BnbxLight.6e9e9706727c31bb64942d975e5b6e2c.svg",
     "static/media/Bnbx.svg": "/logos/static/media/Bnbx.1d188b849ad9b93d00547f31d363a795.svg",
-    "static/media/WeEth.svg": "/logos/static/media/WeEth.176fcf1e324643cd85ce2907f7c49701.svg",
+    "static/media/Weeth.svg": "/logos/static/media/Weeth.4d7afca4018872e7ced16bd4b1a88f64.svg",
     "static/media/Scr.svg": "/logos/static/media/Scr.d3af30ac3d9ba921e80fdcfc7894e3a0.svg",
     "static/media/Inj.svg": "/logos/static/media/Inj.fde490d1691ee8563a25bddcfb931611.svg",
     "static/media/Pyth.svg": "/logos/static/media/Pyth.37c8f0380c4f7b983967ac441d3cdd06.svg",
@@ -325,11 +325,11 @@
     "static/media/Chain1301.svg": "/logos/static/media/Chain1301.efd287d6785274b1bd42fdf57728ba4b.svg",
     "static/media/Celo.svg": "/logos/static/media/Celo.f5086b90b66ad4b68b0ec200e9a6043d.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.fbeaf180.js.map": "/logos/static/js/main.fbeaf180.js.map",
+    "main.bcd9a8d3.js.map": "/logos/static/js/main.bcd9a8d3.js.map",
     "35.75e36e13.chunk.js.map": "/logos/static/js/35.75e36e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.fbeaf180.js"
+    "static/js/main.bcd9a8d3.js"
   ]
 }
