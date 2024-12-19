@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.a1703691.js",
+    "main.js": "/logos/static/js/main.9bc1fb05.js",
     "static/js/35.75e36e13.chunk.js": "/logos/static/js/35.75e36e13.chunk.js",
     "static/media/Brett.svg": "/logos/static/media/Brett.ffb8996b9d5ad66d9cf49ad4d3eba084.svg",
     "static/media/Aero.svg": "/logos/static/media/Aero.b25fd925a93bf0ef017c7a22f966621a.svg",
@@ -188,6 +188,7 @@
     "static/media/Cbbtc.svg": "/logos/static/media/Cbbtc.12a0ea54578dffa9a3cae389933af1a0.svg",
     "static/media/Fxs.svg": "/logos/static/media/Fxs.b9bee9e782b946860c9f62d2544cf1a7.svg",
     "static/media/Chain1115.svg": "/logos/static/media/Chain1115.de14ee3846f245e89562d4fad7411c89.svg",
+    "static/media/Chain57073.svg": "/logos/static/media/Chain57073.2ec9618436dd686ff7c513444a416048.svg",
     "static/media/Rif.svg": "/logos/static/media/Rif.2f2e7a2836bf754710ec20f4628bd2e8.svg",
     "static/media/Chain763373.svg": "/logos/static/media/Chain763373.17eed2a0a92d318700c6904f4213acdf.svg",
     "static/media/Sats.svg": "/logos/static/media/Sats.929d064faf378478e4d7dfd6300773bb.svg",
@@ -343,11 +344,11 @@
     "static/media/Chain2221.svg": "/logos/static/media/Chain2221.6eeefc923180fe9140fc1dafafecdc90.svg",
     "static/media/Celo.svg": "/logos/static/media/Celo.f5086b90b66ad4b68b0ec200e9a6043d.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.a1703691.js.map": "/logos/static/js/main.a1703691.js.map",
+    "main.9bc1fb05.js.map": "/logos/static/js/main.9bc1fb05.js.map",
     "35.75e36e13.chunk.js.map": "/logos/static/js/35.75e36e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.a1703691.js"
+    "static/js/main.9bc1fb05.js"
   ]
 }
