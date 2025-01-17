@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logos/static/css/main.d0bd4ad3.css",
-    "main.js": "/logos/static/js/main.7d98d265.js",
+    "main.js": "/logos/static/js/main.37d5cc5a.js",
     "static/js/35.75e36e13.chunk.js": "/logos/static/js/35.75e36e13.chunk.js",
     "static/media/Brett.svg": "/logos/static/media/Brett.ffb8996b9d5ad66d9cf49ad4d3eba084.svg",
     "static/media/Crv.svg": "/logos/static/media/Crv.01749eb6ba7247722eadab8c52fb9693.svg",
@@ -227,6 +227,8 @@
     "static/media/Kda.svg": "/logos/static/media/Kda.351ae7fe1d00f9cc95bbabb75cb0dfd6.svg",
     "static/media/Coinpaprika.svg": "/logos/static/media/Coinpaprika.1c938feefc68972328f34aa0e152c5f5.svg",
     "static/media/Usd.svg": "/logos/static/media/Usd.83fb9196398086f5e8aa6518b2bcbc81.svg",
+    "static/media/Chain1868.svg": "/logos/static/media/Chain1868.97901a5dd5749d90219f9b123479fdf0.svg",
+    "static/media/Chain1868Light.svg": "/logos/static/media/Chain1868Light.eae03837cc159990a5f648bfd226a989.svg",
     "static/media/Chain1946.svg": "/logos/static/media/Chain1946.f590b518edfba2de76a53836c58fe651.svg",
     "static/media/Shiftmarkets.svg": "/logos/static/media/Shiftmarkets.f537a762c731cc734e3cf6df2124e2b1.svg",
     "static/media/Rdnt.svg": "/logos/static/media/Rdnt.9ec7b6b2f5103f8e11597cf20a242f1d.svg",
@@ -345,11 +347,11 @@
     "static/media/Chain2221.svg": "/logos/static/media/Chain2221.6eeefc923180fe9140fc1dafafecdc90.svg",
     "static/media/Celo.svg": "/logos/static/media/Celo.f5086b90b66ad4b68b0ec200e9a6043d.svg",
     "main.d0bd4ad3.css.map": "/logos/static/css/main.d0bd4ad3.css.map",
-    "main.7d98d265.js.map": "/logos/static/js/main.7d98d265.js.map",
+    "main.37d5cc5a.js.map": "/logos/static/js/main.37d5cc5a.js.map",
     "35.75e36e13.chunk.js.map": "/logos/static/js/35.75e36e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0bd4ad3.css",
-    "static/js/main.7d98d265.js"
+    "static/js/main.37d5cc5a.js"
   ]
 }
